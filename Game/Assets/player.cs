@@ -11,6 +11,6 @@ public class player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        print("a grantclarke-abertay change");
+        print("another roguecodemonkey change");
 	}
 }
